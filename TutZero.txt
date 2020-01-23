@@ -1,0 +1,15 @@
+basic open source tools
+------------------------------
+
+Atom IDE
+  GoogleFont of your choice (install to OS 1st)
+  Atom Theme of your choice
+  Atom file-icons package
+
+GitHub account
+
+Netlify account
+
+believe it or not, this will do it!
+
+PS: Caffeine will help maintain focus as you learn-- use it!
