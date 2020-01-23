@@ -1,29 +1,32 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+templateKey: product-page
+title: Treatments
+image: /img/classic_tools.jpg
+heading: Your treatment...
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  based off of thorough medical intake, diagnostic tools and how you present the
+  day you come in to the clinic. Any combination of the following modalities can
+  be used in your initial or follow up treatments:
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/treatment_table.png
+      text: >-
+        Asian bodywork ranges from Shiatsu that involves dynamic rocking,
+        pushing, pressing of acupuncture points on the body to a gentle Japanese
+        style of body work called Sotai which uses gentle resistance moves in
+        conjunction with the breath to retrain the nervous system in letting go
+        of old holding patterns. Other gentle forms of tissue work including
+        myofascial release can be used to access bound up fascial layers and
+        encourage long term healing.
+    - image: /img/treatment_cupping.png
+      text: >-
+        Cups are suctioned on to the body with fire and are either moved up and
+        down channels or left in one strategic place. Benefits of cupping can
+        include: increase blood flow to sore muscles, loosening of adhesions and
+        restrictions in the tissue, increase immunity before or during a
+        cold/flu and increased lymphatic output. Sometimes thought of as a
+        “reverse massage,” the hallmark of cupping are the circular bruises seen
+        commonly on athletes.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -99,3 +102,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
