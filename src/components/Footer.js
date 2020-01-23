@@ -14,9 +14,17 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="Well Forest Acupuncture"
             style={{ width: '14em', height: '10em' }}
           />
+          <div className='content has-text-centered columns'>
+            <div className='column'>
+              <a href='https://j4cks.com' className="has-size-1">Website: Jacks Consulting</a>
+            </div>
+            <div className='column'>
+              <a href='https://www.instagram.com/veriditas503/' className="has-size-1">Photography: Kyle Overman</a>
+            </div>
+          </div>
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
