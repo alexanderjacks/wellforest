@@ -1,16 +1,22 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Well Forest Acupuncture
+image: /img/snowy_pines.jpg
+heading: Services
+subheading: Classical Chinese Medicine
 mainpitch:
-  title: Why Kaldi
+  title: Inspired by the Pacific Northwest
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    For thousands of years, Chinese Medicine has turned to nature to find the
+    answers to health and wellness. Through meticulous observation it was
+    recognized that patterns seen within our natural environment also occur
+    inside the human body. This discovery led to a medical system with numerous
+    powerful modalities all designed with balance and nature in mind. In our
+    modern world it may be difficult to see the connections our environment has
+    to our body and health. At Well Forest Acupuncture, we use Classical Chinese
+    Medicine not only to bring healing to ones internal environment, but to
+    bring attention, care and connection to the ecosystems in which we all
+    inhabit.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +74,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
