@@ -4,8 +4,6 @@ import { Link } from 'gatsby'
 import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
-import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -17,19 +15,11 @@ const Footer = class extends React.Component {
             alt="Well Forest Acupuncture"
             style={{ width: '14em', height: '10em' }}
           />
-          <div className='content has-text-centered columns'>
-            <div className='column'>
-              <a href='https://j4cks.com' className="has-size-1">Website: Jacks Consulting</a>
-            </div>
-            <div className='column'>
-              <a href='https://www.instagram.com/veriditas503/' className="has-size-1">Photography: Kyle Overman</a>
-            </div>
-          </div>
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
             <div className="columns">
-              <div className="column is-4">
+              <div className="column is-3">
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
@@ -65,7 +55,7 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4">
+              <div className="column is-3">
                 <section>
                   <ul className="menu-list">
                     <li>
@@ -81,7 +71,8 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4 social">
+
+              <div className="column is-3 social">
                 <a title="facebook" href="https://facebook.com">
                   <img
                     src={facebook}
@@ -89,28 +80,22 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
-                  <img
-                    className="fas fa-lg"
-                    src={twitter}
-                    alt="Twitter"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://https://www.instagram.com/wellforestacupuncture/">
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
-                  <img
-                    src={vimeo}
-                    alt="Vimeo"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
+              </div>
+
+              <div className='content has-text-centered column is-3'>
+                <div className='column'>
+                  <a href='https://j4cks.com' className="has-size-1 has-text-white-ter">Website: Jacks Consulting</a>
+                </div>
+                <div className='column'>
+                  <a href='https://www.instagram.com/veriditas503/' className="has-size-1 has-text-white-ter">Photography: Kyle Overman</a>
+                </div>
               </div>
             </div>
           </div>

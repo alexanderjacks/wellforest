@@ -25,6 +25,8 @@ export const ProductPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
+        backgroundPosition: `top right`,
+        backgroundAttachment: `fixed`,
       }}
     >
       <h2
