@@ -39,7 +39,32 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+
+              <h1>Book An Appointment</h1>
+              <p>
+              We are located in Northeast Portland inside the lovely <strong>In Tune Integrative Wellness</strong>.
+              </p>
+              <img
+                src='/img/static-map.png'
+                className='mapbox'
+              />
+              <h4 className='extra-vertical-spacing'>
+              Click the link below to schedule online or call the front desk,<br/>M-W 9am-4pm!
+              </h4>
+              <div className="columns">
+                <div className="column is-6">
+                  <a href='https://ehr.unifiedpractice.com/Public/OnlineBooking?ClinicUid=b4fb4194-05f1-4b95-a41c-9348b69778da'>
+                  <button className='btn'>Booking Calendar
+                  </button></a>
+                </div>
+                <div className="column is-6">
+                  <h3>
+                  <a href='tel:+19715447298'>(971) 544-7298</a>
+                  </h3>
+                </div>
+              </div>
+
+              <h1>Questions? We Can Email You</h1>
               <form
                 name="contact"
                 method="post"
@@ -73,7 +98,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'email'}>
-                    Email
+                    Your email
                   </label>
                   <div className="control">
                     <input
@@ -88,7 +113,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message
+                    Your message
                   </label>
                   <div className="control">
                     <textarea
@@ -101,11 +126,12 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <button className="button is-link" type="submit">
+                  <button className="btn" type="submit">
                     Send
                   </button>
                 </div>
               </form>
+
             </div>
           </div>
         </section>

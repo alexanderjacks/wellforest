@@ -13,6 +13,15 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section">
+              <div className="level">
+                <div className="level-right">
+                  <img
+                    src='/img/kecia_fox_MSOM.jpg'
+                    className='portrait'
+                  />
+                </div>
+              </div>
+
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h2>
