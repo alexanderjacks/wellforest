@@ -49,7 +49,7 @@ intro:
         facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis
         est eligendi optio cumque nihil impedit quo minus id quod maxime placeat
         facere
-    - image: /img/meeting-space.png
+    - image: /img/phantasma-pexels-petram.png
       text: >-
         But I must explain to you how all this mistaken idea of denouncing
         pleasure and praising pain was born and I will give you a complete
@@ -85,48 +85,53 @@ main:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Golden forest mushrooms
+    image: /img/golden_shrooms.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Variety of Chinese Medicinal herbs
+    image: /img/herbs.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Alexander Jacks
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      I've had three sessions with Kecia and I now feel a permanent reduction in
+      my PTSD symptoms and anxiety issues! I'm a new believer in acupuncture for
+      PTSD.
+  - author: client name
+    quote: 'glowing, dummy review here'
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Well Forest Medicine
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Now offering $5 discount on treatments when you pay with cash at time of
+    service!
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: >-
+        For those new to the clinic, an initial visit is required to receive
+        acupuncture treatments. Session includes complete medical intake and
+        Chinese diagnostic work up. Any of the follow modalities may be
+        incorporated into your treatment: acupuncture, bodywork, herbal
+        medicine, gua sha, cupping, moxibustion, nutrition and movement
+        therapies. Please note acupuncture treatment may be shorter on the
+        initial visit due to length of medical intake.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
+        - 1 hour + 15 minutes
+      plan: Initial Acupuncture Visit
+      price: '125'
+    - description: >-
+        Follow up visits can include any of the following modalities:
+        acupuncture, bodywork, moxibustion, cupping, gua sha, nutrition and
+        movement therapies. Must have had an initial visit in the last 6 months.
+      items:
+        - 1 hour
+      plan: Follow Up Acupuncture Visit
+      price: '90'
+    - description: >-
+        Includes evaluation of treatment area and application of fire cups or
+        gua sha. Organic body oil will be applied. Treatment concluded with
+        topical herbal liniment.
+      items:
+        - 30 minutes
+      plan: Cupping + Gua Sha Only
       price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
 ---
 
