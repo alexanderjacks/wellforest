@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Treatments
+title: Well Forest Treatments
 image: /img/classic_tools.jpg
 heading: Your treatment...
 description: >-
@@ -68,12 +68,8 @@ intro:
         other hand, we denounce with righteous indignation and dislike men who
         are so beguiled and demoralized by the charms of pleasure of the moment,
         so blinded by desire, that they cannot foresee
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Services We Offer
+  description: Bodywork table and gua sha cups below
 main:
   heading: Great coffee with no compromises
   description: >
@@ -82,8 +78,8 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Hand warmer device
+    image: /img/hand_warmer.jpg
   image2:
     alt: Golden forest mushrooms
     image: /img/golden_shrooms.jpg
@@ -98,9 +94,9 @@ testimonials:
       PTSD.
   - author: client name
     quote: 'glowing, dummy review here'
-full_image: /img/products-full-width.jpg
+full_image: /img/snowy_pines.jpg
 pricing:
-  heading: Well Forest Medicine
+  heading: Service Pricing
   description: >-
     Now offering $5 discount on treatments when you pay with cash at time of
     service!
