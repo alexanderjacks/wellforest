@@ -17,53 +17,52 @@ mainpitch:
     Medicine not only to bring healing to ones internal environment, but to
     bring attention, care and connection to the ecosystems in which we all
     inhabit.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: ' Any combination of the following modalities can be used in your initial or follow up treatments:'
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+    - image: /img/kneedle.jpg
+      text: >-
+        In an Acupuncture treatment, thin needles are inserted into acupuncture
+        points located throughout the body on channels. Each point and channel
+        is used to treat a variety of ailments and improve overall vitality.
+        Ancient Chinese diagnostic tools such as pulse and tongue diagnosis,
+        along with a thorough intake help determine which channels and points
+        should be used. Japanese non-insertive tools called Teishin, can also be
+        used to access acupuncture points instead of needles. They are placed
+        gently on the acupuncture point and qi is accessed without breaking the
+        skin. Teishin are also used to release superficial fascial layers in the
+        body. This can help with pain and aid in healthy restructuring of the
+        musculoskeletal system all while calming overactive sympathetic activity
+        and encouraging parasympathetic function.
+    - image: /img/classic_tools.jpg
+      text: >-
+        A gua sha tool is used to “scrape” around sore muscles and acupuncture
+        channels to bring blood flow and qi to the area. Gua sha can leave “sha”
+        marks or small sandy purple bruises on the skin. 
+    - image: /img/treatment_cupping.png
+      text: >-
+        Cups are suctioned on to the body with fire and are either moved up and
+        down channels or left in one strategic place. Benefits of cupping can
+        include: increase blood flow to sore muscles, loosening of adhesions and
+        restrictions in the tissue, increase immunity before or during a
+        cold/flu and increased lymphatic output. Sometimes thought of as a
+        “reverse massage,” the hallmark of cupping are the circular bruises seen
+        commonly on athletes. 
+    - image: /img/herbs.jpg
+      text: >-
+        Chinese herbs are used to form complex and individualized formulas to
+        restore harmony and provide relief to ailments. It is often given as a
+        tea or in pill form. Many Chinese formulas can only be accessed by a
+        prescription from your licensed acupuncturist.
+  heading: Treatment modalities
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: dummy text
+  description: dummer text
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
