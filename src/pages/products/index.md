@@ -71,12 +71,23 @@ intro:
   heading: Services We Offer
   description: Bodywork table and gua sha cups below
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Connection to nature through Classical Chinese Medicine…
+  description: >-
+    We are a part of this vast and alive ecosystem. When humans and nature
+    become imbalanced, there are visible manifestations both in the human body
+    and natural world. Classical Chinese Medicine has acknowledged this reality
+    for thousands of years. At Well Forest Acupuncture it is our mission to
+    connect people to nature through their body and in this, bring balance and
+    healing to the environment within us and outside of us. 
+
+
+    Well Forest Acupuncture is committed to the sustainability and preservation
+    of the Pacific Northwest. Every six months we donate a portion of our
+    earnings to a local organization devoted to keeping the Pacific Northwest
+    thriving and beautiful for all to enjoy.
+
+
+    Check out our blog to find out which organization we are supporting now!
   image1:
     alt: Hand warmer device
     image: /img/hand_warmer.jpg
