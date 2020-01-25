@@ -5,7 +5,7 @@ image: /img/snowy_pines.jpg
 heading: Services
 subheading: Classical Chinese Medicine
 mainpitch:
-  title: Inspired by the Pacific Northwest
+  title: Classical Chinese Medicine Inspired by the Pacific Northwest
   description: >
     For thousands of years, Chinese Medicine has turned to nature to find the
     answers to health and wellness. Through meticulous observation it was
