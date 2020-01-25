@@ -1,21 +1,26 @@
 @import "~bulma/sass/utilities/initial-variables"
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+
+// Branding & Config vars
+// logo brand color: #FD461E
+$brandcolor: #150
+$brandcolor-invert: #f2e3d0
+
+$primary: $brandcolor
+$primary-invert: $brandcolor-invert
+$body-color: #150
+$black: #2b2523
+
+// typeface
+$body-line-height: 1.55
+$title-line-height: 2
+$subtitle-line-height: 2
 
 h1, h2, h3, h4, h5, h6
   font-family: 'Noto Serif SC', serif
-
-// Config vars
-// Kaldi logo brand color: #FD461E
-$kaldi-red: #150
-$kaldi-red-invert: #f2e3d0
-
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
-$body-color: #333
-$black: #2b2523
-
 p
-  color: $kaldi-red
+  font-family: 'Lora', serif
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -35,9 +40,11 @@ p
     margin-bottom: 1.5rem
     margin-top: 0
 
-// Helper Classes
-.subtitle
-  color: blue
+// helper classes
+.padded-text
+  line-height: 2
+  font-weight: 200
+
 
 .full-width-image-container
   width: 100vw
@@ -98,7 +105,7 @@ footer.footer
   font-size: 1.25rem
   border-radius: 0.65rem
   color: $white-ter
-  background-color: $kaldi-red
+  background-color: $brandcolor
   padding: 1.1rem
   border: 0 black solid
 
@@ -121,9 +128,9 @@ footer.footer
 $menu-item-color: $white-ter
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
-$menu-item-active-background-color:	$kaldi-red-invert
-$menu-list-border-left: 1px solid $kaldi-red-invert
+$menu-item-active-color: $brandcolor-invert
+$menu-item-active-background-color:	$brandcolor-invert
+$menu-list-border-left: 1px solid $brandcolor-invert
 $menu-label-color: $white-ter
 
 

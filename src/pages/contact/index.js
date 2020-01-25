@@ -61,6 +61,8 @@ export default class Index extends React.Component {
                   <h3>
                   <a href='tel:+19715447298'>(971) 544-7298</a>
                   </h3>
+                  <p>Please note, my treatment room is located on the second floor and involves climbing steep stairs. Please contact me before making an appointment to let me know if stairs are a difficulty and I will accommodate with a treatment room on the first floor of the building, as space allows. Unfortunately at this time the clinic is not ADA accessible. 
+                  </p>
                 </div>
               </div>
 

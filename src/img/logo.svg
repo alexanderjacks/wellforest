@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="233px" height="48px" viewBox="0 0 233 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="207px" height="41px" viewBox="0 0 207 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>Slice</title>
+    <title>logo</title>
     <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Times-Roman, Times" font-size="28" font-weight="normal" line-spacing="26">
-        <text id="WELL-FOREST" letter-spacing="0.7" fill="#115500">
-            <tspan x="4" y="32">WELL</tspan>
-            <tspan x="71.9875" y="41.9941406" font-family="DevanagariMT, Devanagari MT"> </tspan>
-            <tspan x="94.1796875" y="32">FOREST</tspan>
-        </text>
-        <text id="ACUPUNCTURE" letter-spacing="2" fill="#115500">
-            <tspan x="2" y="53">ACUPUNCTURE</tspan>
-        </text>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Times-Roman, Times" font-size="28" font-weight="normal">
+        <g id="logo" transform="translate(0.000000, -8.000000)" fill="#CED3DC">
+            <text id="WELL">
+                <tspan x="2" y="27">WELL</tspan>
+            </text>
+            <text id="FOREST">
+                <tspan x="92.1796875" y="27">FOREST</tspan>
+            </text>
+            <text id="ACUPUNCTURE">
+                <tspan x="0" y="48">ACUPUNCTURE</tspan>
+            </text>
+        </g>
     </g>
 </svg>
