@@ -17,16 +17,14 @@ $body-line-height: 1.55
 $title-line-height: 2
 $subtitle-line-height: 2
 
-h1, h2, h3, h4, h5, h6
-  font-family: 'Ibarra Real Nova', serif
-p
-  font-family: 'Lora', serif
+h1, h2
+  font-family: 'Oswald', serif
+
+h3, h4, h5, h6, p
+  font-family: 'Nanum Myeongjo', serif
 
 body
   background-image: linear-gradient(to top, #ced3dc, white)
-
-.navbar .navbar-menu
-  box-shadow:none !important
 
 .content .taglist
   list-style: none
@@ -78,15 +76,20 @@ body
     font-size: 1rem
     line-height: 1.25
     background-color: #fff
-    border-radius: .25rem
+    border-radius: 2.25rem
     text-decoration: none
+    text-transform: uppercase
     font-weight: 700
     color: #150
     text-align: center
     -webkit-box-shadow: inset 0 0 0 2px #140
     box-shadow: inset 0 0 0 2px #150
     -webkit-transition: all .15s ease
-    transition: all .15s ease
+    transition: all .25s ease
+    &:hover
+      color: #fff
+      background-color: #150
+
 
 .margin-top-0
   margin-top: 0 !important
@@ -103,6 +106,15 @@ body
 footer.footer
   padding: 3rem 0rem 0rem
   background-color: transparent
+
+
+.navbar
+  background-color: red
+.navbar-item p
+  box-shadow:none !important
+  color: #150
+  text-transform: uppercase
+  font-family: 'Oswald'
 
 .up-3rdparty-button
   font-size: 1.25rem

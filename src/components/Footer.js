@@ -38,8 +38,13 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact/">
+                      <Link className="navbar-item" to="/contact">
                         Schedule
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/blog">
+                        Connect
                       </Link>
                     </li>
                     <li>
@@ -91,10 +96,10 @@ const Footer = class extends React.Component {
 
               <div className='content has-text-centered column is-3'>
                 <div className='column'>
-                  <a href='https://j4cks.com' className="has-size-1 has-text-white-ter">Website: Jacks Consulting</a>
+                  <a href='https://j4cks.com' className="has-size-1 has-text-white-ter">Website by Jacks Consulting</a>
                 </div>
                 <div className='column'>
-                  <a href='https://www.instagram.com/veriditas503/' className="has-size-1 has-text-white-ter">Photography: Kyle Overman</a>
+                  <a href='https://www.instagram.com/veriditas503/' className="has-size-1 has-text-white-ter">Photography by Kyle Overman @Veriditas503</a>
                 </div>
               </div>
             </div>

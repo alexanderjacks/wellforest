@@ -81,9 +81,9 @@ export const IndexPageTemplate = ({
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
-                    <h4 className="subtitle"
+                    <p className=""
                     style={{lineLeight:'2.0'}}
-                    >{mainpitch.description}</h4>
+                    >{mainpitch.description}</p>
                   </div>
                 </div>
                 <div className="columns">
